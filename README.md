@@ -94,7 +94,7 @@ Remove all vowels from the string
 Remove spaces from a string
 Remove characters from a string except alphabets
 Reverse a String
-Remove brackets from an algebraic expression
+Remove brackets from an algebraic expsression
 Sum of the numbers in a String
 Capitalize first and last character of each word
 Calculate frequency of characters in a string
