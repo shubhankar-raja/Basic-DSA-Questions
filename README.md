@@ -3,7 +3,7 @@
 
 1. <!-- Problems on Arrays -->
 
-Find the smallest number in an array
+Find the smallest number in an array.
 Find the largest number in an array
 Second Smallest and Second Largest element in an array
 Reverse a given array
