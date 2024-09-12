@@ -1,7 +1,7 @@
 # Basic-DSA-Questions
 # List of Questions
 
-1. <!-- Problems on Arrays -->
+1. Problems on Arrays
 
 Find the smallest number in an array.
 Find the largest number in an array
